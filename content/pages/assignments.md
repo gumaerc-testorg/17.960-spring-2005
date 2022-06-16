@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the course assignments, including
+  six short analytical papers, a short presentation, and moderation of a class discussion.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
