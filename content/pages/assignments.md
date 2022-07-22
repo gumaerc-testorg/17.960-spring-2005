@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a description of the course assignments, including
+  six short analytical papers, a short presentation, and moderation of a class discussion.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 332e5461-fc3d-801d-4dfe-7ff8091a3ae7
 ---
